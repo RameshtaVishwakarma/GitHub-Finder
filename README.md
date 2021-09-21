@@ -28,7 +28,7 @@ The website will fetch the following details:
   
 ## Deployment
 
-The Website is currently Deployed on GitHub pages:
+The Project is currently Deployed on GitHub pages:
 
 [GitHub Finder](https://rameshtavishwakarma.github.io/GitHub-Finder/)
 
